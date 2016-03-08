@@ -12,14 +12,12 @@ Usage: genmul.py --lang=vhdl|verilog --lib
     npipe       Number of register stages (0 or 1 or 2)
 
 See also:
-G. Knagge, "ASIC Design for Signal Processing",
-  http://www.geoffknagge.com/fyp/booth.shtml, 2010.
-X. Xiong, M. Lin, "Low Power 8-bit Baugh-Wooley Multiplier Based on Wallace
-  Tree Architecture", Lecture Notes in Electrical Engineering, 2012.
-L. Dadda, "Some schemes for parallel multipliers",
-  Associazione Elettrotecnica et Elettronica Italiana, 1965.
-R. P. Brent, H. T. Kung, "A Regular Layout for Parallel Adders",
-  IEEE Transactions on Computers, 1982.
+  G. Knagge, "ASIC Design for Signal Processing",
+    http://www.geoffknagge.com/fyp/booth.shtml, 2010.
+  L. Dadda, "Some schemes for parallel multipliers",
+    Associazione Elettrotecnica et Elettronica Italiana, 1965.
+  R. P. Brent, H. T. Kung, "A Regular Layout for Parallel Adders",
+    IEEE Transactions on Computers, 1982.
 """
 
 import sys
