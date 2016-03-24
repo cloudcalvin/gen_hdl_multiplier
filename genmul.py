@@ -20,6 +20,15 @@ See also:
     IEEE Transactions on Computers, 1982.
 """
 
+#
+# Copyright 2016 Joris van Rantwijk
+#
+# Copying and distribution of this file, with or without modification,
+# are permitted in any medium without royalty provided the copyright
+# notice and this notice are preserved.
+#
+
+
 import sys
 import argparse
 
